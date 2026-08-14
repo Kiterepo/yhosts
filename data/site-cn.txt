@@ -136,6 +136,7 @@
 127.0.0.1 feedback.migu.cn
 127.0.0.1 ggc.cmvideo.cn
 127.0.0.1 ggxt.cmvideo.cn
+127.0.0.1 migu.qchannel03.cn
 #CCTV
 127.0.0.1 galaxy.bjcathay.com
 #酷我
@@ -169,3 +170,8 @@
 127.0.0.1 vip.log.mgtv.com
 #风行
 127.0.0.1 fplus.funshion.com
+#太平洋科技
+127.0.0.1 ivy.pconline.com.cn
+127.0.0.1 count6.pconline.com.cn
+127.0.0.1 devw.pconline.com.cn
+127.0.0.1 jwz.3conline.com

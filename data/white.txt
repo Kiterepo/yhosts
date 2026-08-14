@@ -1,0 +1,9 @@
+mjs.sinaimg.cn
+mat1.gtimg.com
+t.captcha.qq.com
+captcha.gtimg.com
+snowflake.qq.com
+odin.sohu.com
+search-operate.cdn.bcebos.com
+challenges.cloudflare.com
+gips1.baidu.com
