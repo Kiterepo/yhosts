@@ -108,6 +108,8 @@
 127.0.0.1 ads-img-al.xhscdn.com
 #øÏ ÷
 127.0.0.1 open.e.kuaishou.com
+127.0.0.1 open.e.kuaishou.cn
+127.0.0.1 gdfp.gifshow.com
 #÷ß∏∂±¶
 127.0.0.1 admonitor-feedback.cn-hangzhou.log.aliyuncs.com
 127.0.0.1 report-user-online-event.cn-wulanchabu.log.aliyuncs.com

@@ -8,6 +8,13 @@
 127.0.0.1 www.adukwai.com
 127.0.0.1 www.adkwai.com
 127.0.0.1 www.adbkwai.com
+127.0.0.1 p66-ad.adkwai.com
+127.0.0.1 p1-lm.adkwai.com
+127.0.0.1 p1-lm.adukwai.com
+#北京锐讯灵通科技有限公司
+127.0.0.1 utoken.umeng.com
+127.0.0.1 cnlogs.umeng.com
+127.0.0.1 errnewlog.umeng.com
 #北京燎原之火科技有限公司
 127.0.0.1 adx.yhcplatform.com
 127.0.0.1 h5sdk.yhcplatform.com
